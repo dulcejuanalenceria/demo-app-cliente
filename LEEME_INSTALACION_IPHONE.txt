@@ -1,0 +1,19 @@
+DEMO COMERCIAL PARA IPHONE
+
+Esta carpeta ya está preparada como app web instalable (PWA).
+
+IMPORTANTE: para instalarla correctamente en un iPhone debe abrirse desde una dirección HTTPS.
+No alcanza con mandar el archivo index.html por WhatsApp.
+
+Una vez publicada en una dirección HTTPS:
+1. Abrir el enlace en Safari.
+2. Tocar Compartir.
+3. Elegir “Añadir a pantalla de inicio”.
+4. Tocar “Añadir”.
+
+Archivos que deben publicarse juntos:
+- index.html
+- manifest.webmanifest
+- sw.js
+- icon-192.png
+- icon-512.png
